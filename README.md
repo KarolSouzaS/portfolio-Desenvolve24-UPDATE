@@ -1,5 +1,5 @@
 # portfolio-Desenvolve24-UPDATE
-Portfolio responsivo.
+Portfolio responsivo: https://portfolio-desenvolve24.vercel.app/
 
 
 ![responsividade](https://github.com/KarolSouzaS/portfolio-Desenvolve24-UPDATE/assets/125404860/cf88f1ab-b8c6-461d-8782-42ca11f043ed)
